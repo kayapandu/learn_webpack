@@ -1,0 +1,21 @@
+{
+  "name": "js_modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "7",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.1",
+    "extract-text-webpack-plugin": "2.0.0-beta.4",
+    "file-loader": "^2.0.0",
+    "image-webpack-loader": "^4.5.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "webpack": "2.2.0-rc.0"
+  }
+}
